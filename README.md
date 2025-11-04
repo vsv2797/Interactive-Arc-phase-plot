@@ -87,7 +87,7 @@ Specify your license here (e.g., MIT License).
 
 ## 📬 Contact  
 For questions or collaboration, feel free to contact me.  
-> *Your Name / Maintainer — Email: your.email@domain.com*
+> Email: vsv2745@gmail.com
 
 ---
 
