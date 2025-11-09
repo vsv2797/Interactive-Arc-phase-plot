@@ -7,6 +7,8 @@ from scipy.signal import savgol_filter
 from scipy.signal import butter, filtfilt , lfilter
 from spatz.change.phase_noise_time import temporallyUnwrapArcPhase , computeIfgsAndBaselines
 import datetime
+
+# this file contains all the functions required for this plotter
 def load_slc_stack(file_path,geometry_file):
     """Loads SLC stack, temporal baselines (tbase), and perpendicular baselines (pbase) from an HDF5 file."""
     with h5py.File(file_path, 'r') as f:
