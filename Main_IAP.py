@@ -83,6 +83,7 @@ if __name__ == "__main__":
     print("Visualizing arc phases...")
     #plot_arc_phase(arc_phases,first_order_mask)
     #plot_arc_phase(arc_phases=smoothed_data, first_order_mask=first_order_mask)
+# arc phase plot
     #plot_arc_phase(arc_phases=smoothed_data2,first_order_mask=first_order_mask)
     #print("Visualizing comparison of Butterworth and Savitzky-Golay filters...")
     #plot_comparison(arc_phases, smoothed_data, smoothed_data2, first_order_mask)
