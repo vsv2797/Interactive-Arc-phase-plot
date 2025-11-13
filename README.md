@@ -1,6 +1,6 @@
 # Interactive-Arc-phase-plot
 
-This repository provides an interactive plotting tool for arc-phase time series, developed especially for InSAR / arc-phase analysis workflows.
+This repository provides an interactive plotting tool for arc-phase time series, developed especially for InSAR phase analysis workflows.
 
 ## 🧭 About  
 The tool allows users to load arc-phase data and interactively explore the phase time-series (per arc, per scatterer) with visualizations and filtering capabilities. It is intended to complement detailed processing workflows in multitemporal InSAR change-detection / phase-noise modelling.
